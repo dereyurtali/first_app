@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     
     return MaterialApp(
         home: Scaffold(
-          appBar: AppBar(title: Text('İlk Ekran!'))
+          appBar: AppBar(title: Text('Selam!'))
     )
     );
   }
